@@ -36,6 +36,6 @@ FolderOrganizer es un software que organiza automáticamente tus archivos en car
 ### [FingersBot](https://github.com/CarlosErz/FingersBot)
 FingersBot es un proyecto que desarrollé para controlar una mano biónica para prótesis utilizando Python y Arduino. Utiliza visión artificial para detectar la posición de la mano en un plano 2D y transmite esa información a un Arduino para replicar el movimiento en la prótesis.
 
-¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y contactarme para colaboraciones o simplemente para charlar sobre tecnología, diseño o desarrollo.****
+¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y contactarme para colaboraciones o simplemente para charlar sobre tecnología, diseño o desarrollo.
 
 
