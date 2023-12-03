@@ -10,8 +10,11 @@ Soy un apasionado del desarrollo de software y el diseño de experiencias. Con e
 
 <p align="center">
 ## Diseño 
+
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,ae,xd,figma&theme=light)](https://skillicons.dev)
+
 ## Programacion 
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,mysql)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp )](https://skillicons.dev)
