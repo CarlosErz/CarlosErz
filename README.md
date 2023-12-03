@@ -12,7 +12,7 @@ Soy un apasionado del desarrollo de software y el diseño de experiencias. Con e
   
 ## Diseño 
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,ae,xd,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,ae,xd,figma)](https://skillicons.dev)
 
 ## Programacion 
 
