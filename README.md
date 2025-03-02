@@ -1,6 +1,6 @@
 
 
-# ¡Hola! Soy Carlos Erz 👋
+# ¡Hola! Soy Carlos Emmanuel Rodriguez 👋
 
 ## Sobre mí
 
