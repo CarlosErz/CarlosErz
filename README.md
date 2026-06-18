@@ -1,39 +1,16 @@
-# ¡Hola! Soy Carlos Emmanuel Rodríguez 👋
+# ¡Hola! Soy Carlos Emmanuel Rodriguez
 
 ## Sobre mí  
-Soy un recién egresado de **Ingeniería en Sistemas** apasionado por la **automatización**, el **diseño UI/UX** y la **programación web**.  
-Mis valores se enfocan en usar el conocimiento tecnológico para aportar a las áreas sociales y construir un mejor país.  
-
-Tengo experiencia en:  
-- **Diseño UI/UX:** Figma, Illustrator, Photoshop, After Effects  
-- **Programación Web:** HTML, CSS, JavaScript, PHP  
-- **Backend:** FastAPI (Python), NestJS (TypeScript), JWT, APIs RESTful  
-- **Bases de Datos:** MySQL, PostgreSQL (con Docker), SQLite  
-- **Programación:** Python, TypeScript, JavaScript, PHP, C++  
-- **Frameworks:** React, Vite  
-- **Microcontroladores:** Arduino  
-- **GameDev:** Godot Engine  
+Ingeniero en Sistemas enfocado en desarrollo de software profesional. Trabajo en el sector laboral con un stack orientado a arquitecturas robustas y escalables, aplicando Clean Architecture, DDD y CQRS
+### Enfoque actual
+Arquitectura Limpia — separación de responsabilidades, código mantenible y testeable
+DDD (Domain-Driven Design) — modelado del dominio como núcleo del sistema
+CQRS — separación de lecturas y escrituras para mayor escalabilidad
+Vue + .NET — stack principal en entorno productivo
 
 ---
 
-## 🛠️ Skills  
-
-<p align="center">
-
-### 🎨 Diseño  
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,ae,figma)](https://skillicons.dev)
-
-### 💻 Programación  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,react,py,cpp,nestjs,fastapi,docker,postgresql,mysql)](https://skillicons.dev)
-
-### 🎮 GameDev  
-[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
-
-</p>
-
----
-
-## 🚀 Proyectos Destacados  
+## Proyectos Destacados  
 
 ### [📱 ManitasMX](https://manitasmx.com)  
 Aplicación web realizada como **tesis universitaria** para el aprendizaje de la **Lengua de Señas Mexicana (LSM)**, integrando **IA con TensorFlow y ONNX**, lecciones interactivas, progreso gamificado y reconocimiento de señas en tiempo real.  
